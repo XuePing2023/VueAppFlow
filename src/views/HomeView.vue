@@ -6,7 +6,7 @@ import TheWelcome from '../components/TheWelcome.vue'
   <main>
     <TheWelcome />
     <div>
-      AppFlow
+      AppFlow 2026-03-18 Version 1
     </div>
   </main>
 </template>
